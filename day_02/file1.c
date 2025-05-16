@@ -1,0 +1,12 @@
+//problem 1
+#include <stdio.h>
+
+int main()
+{
+    int x=3;
+    printf("%s",(x%2==0)?0:1);
+
+    return 0;
+
+}
+
